@@ -105,6 +105,8 @@ let caught = 5 * 5;
 Let duidt erop dat de volgende zin een binding wordt, cuaght is de naam van de binding en de = om het meteen een waarde te geven.
 Hij houd de waarde vast duit 5 * 5 komt. 
 
+met de = operator kunnen bindings altijd een nieuwe waarde gegeven worden. 
+
 
 ## Chapter 3
 
