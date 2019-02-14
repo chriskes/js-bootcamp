@@ -22,7 +22,7 @@ function sum(start, end) {
             }
             for (let i = 0; i < range.length; i++){
                 
-                total = total + range[i];
+                total += range[i];
                 
                 
             }
