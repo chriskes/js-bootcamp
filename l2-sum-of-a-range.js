@@ -1,9 +1,33 @@
- function sumRange(x, y) {
-            let total = 0,
-                count = x;
-            while (count <= y) {
-                total += count;
-                count += 1;
+//----------- FUNCTION THAT RETURNS AN ARRAY -----------//
+
+ function range(start, end) {
+
+            const range = [];
+
+            for (let i = start; i <= end; i++) {
+                range.push(i);
             }
-        return(total);
+            return range;
+
         }
+
+//----------- FUNCTION THAT SUMS AN ARRAY -----------//
+
+function sum(start, end) {
+            const range = [];
+            var total = 0;
+
+            for (let i = start; i <= end; i++) {
+                range.push(i);
+            }
+            for (let i = 0; i < range.length; i++){
+                
+                total = total + range[i];
+                
+                
+            }
+            return total;
+
+        }
+
+
