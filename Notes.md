@@ -1,5 +1,9 @@
 # Notes
 
+## Gastspreker
+### Ronny rook Label A
+dev dependency webpack
+
 
 ## Chapter 1 Values, Types and Operators
 ### Values
