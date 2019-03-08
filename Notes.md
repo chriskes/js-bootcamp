@@ -4,6 +4,10 @@
 ### Ronny rook Label A
 dev dependency webpack
 
+### Timon van spronsen Awkward
+polyfills, functionaliteit vervangen die niet wordt ondersteunt door oude browsers
+whatwebcando.today 
+
 
 ## Chapter 1 Values, Types and Operators
 ### Values
